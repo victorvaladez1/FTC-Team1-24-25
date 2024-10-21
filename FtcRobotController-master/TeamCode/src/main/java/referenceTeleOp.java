@@ -9,7 +9,7 @@ import com.qualcomm.robotcore.hardware.Servo;
 import static android.os.SystemClock.sleep;
 
 @TeleOp
-public class  extends OpMode {
+public class extends OpMode {
 
     //---------DRIVE TRAIN MOTORS-------------------------------------------------------------------
     DcMotor fl; //Front Left Motor
